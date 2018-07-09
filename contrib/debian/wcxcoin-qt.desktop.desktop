@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WCXCOIN
+Comment=WCXCOIN P2P Cryptocurrency
+Exec=wcxcoin-qt %u
+Terminal=false
+Type=Application
+Icon=wcxcoin128
+MimeType=x-scheme-handler/wcxcoin;
+Categories=Office;Finance;
+Name[en_US]=wcxcoin-qt.desktop

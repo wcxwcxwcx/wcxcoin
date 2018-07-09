@@ -1,0 +1,26 @@
+# /etc/conf.d/wcxcoind: config file for /etc/init.d/wcxcoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/wcxcoin/wcxcoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/wcxcoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/wcxcoind.pid"
+
+# Where to write wcxcoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/wcxcoind"
+
+# User and group to own wcxcoind process
+#BITCOIND_USER="wcxcoin"
+#BITCOIND_GROUP="wcxcoin"
+
+# Path to wcxcoind executable
+#BITCOIND_BIN="/usr/bin/wcxcoind"
+
+# Nice value to run wcxcoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
