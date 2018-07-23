@@ -203,10 +203,10 @@ QT_TRANSLATE_NOOP("wcxcoin-core", ""
 QT_TRANSLATE_NOOP("wcxcoin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("wcxcoin-core", "(9333 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("wcxcoin-core", "(22123 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("wcxcoin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("wcxcoin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("wcxcoin-core", "(must be 9333 for mainnet)"),
+QT_TRANSLATE_NOOP("wcxcoin-core", "(must be 22123 for mainnet)"),
 QT_TRANSLATE_NOOP("wcxcoin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("wcxcoin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("wcxcoin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),

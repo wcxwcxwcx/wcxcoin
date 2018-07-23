@@ -3780,8 +3780,8 @@ For eksempel: alertnotify=Echo %% | mail - s "WCXCOIN ALARM!" e-mail@administrat
         <translation>Der skal angives en masternodeprivkey i konfigurationen. For mere information, se i dokumentationen.</translation>
     </message>
     <message>
-        <source>(9333 could be used only on mainnet)</source>
-        <translation>(9333 kunne kun bruges på hovednettet)</translation>
+        <source>(22123 could be used only on mainnet)</source>
+        <translation>(22123 kunne kun bruges på hovednettet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -3792,8 +3792,8 @@ For eksempel: alertnotify=Echo %% | mail - s "WCXCOIN ALARM!" e-mail@administrat
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 9333 for mainnet)</source>
-        <translation>(skal være 9333 for hovednettet)</translation>
+        <source>(must be 22123 for mainnet)</source>
+        <translation>(skal være 22123 for hovednettet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
